@@ -1,0 +1,7 @@
+{
+    "_factoryDataList":[
+        {"FactoryName" : "DefaultBlockFactoryProvider", "HPValue" : 3, "ScoreValue" : 50, "Probably" : 20},
+        {"FactoryName" : "DefaultBlockFactoryProvider", "HPValue" : 2, "ScoreValue" : 30, "Probably" : 50},
+        {"FactoryName" : "DefaultBlockFactoryProvider", "HPValue" : 1, "ScoreValue" : 10, "Probably" : 100}
+    ]
+}

@@ -1,6 +1,5 @@
 # Block
 [![Unity](https://img.shields.io/badge/Unity-2022.3.22f1-black?logo=unity)](https://unity.com/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## プロジェクト概要
 **Block** は、Unityで開発したシンプルな**ブロック崩しゲームのデモ**です。  
